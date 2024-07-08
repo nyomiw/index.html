@@ -1,0 +1,22 @@
+element.style {
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+link {
+    display: none;
+}
+html {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
